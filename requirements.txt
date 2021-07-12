@@ -99,7 +99,7 @@ tornado==6.1
 tqdm==4.61.0
 traitlets==5.0.5
 typing-extensions==3.7.4.3
-urllib3==1.26.4
+urllib3==1.26.5
 virtualenv==20.4.2
 wcwidth==0.2.5
 Werkzeug==1.0.1
